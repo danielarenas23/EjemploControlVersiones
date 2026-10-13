@@ -1,0 +1,15 @@
+---
+title: "Areas.Rmd"
+author: "Daniel Arenas Gracia"
+date: "2026-10-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+A= pi*2^2
+```
+
